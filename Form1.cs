@@ -254,7 +254,6 @@ namespace TranScript
                 bw.Write(output, 0, output.Length); 
                 bw.Flush();
                 bw.Close();
-                fs.Close();
             }
         }
 
