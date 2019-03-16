@@ -1,0 +1,14 @@
+D:\Documents\Visual Studio 2017\Projects\TranScript\TranScript\bin\Release\TranScript.exe.config
+D:\Documents\Visual Studio 2017\Projects\TranScript\TranScript\bin\Release\TranScript.exe
+D:\Documents\Visual Studio 2017\Projects\TranScript\TranScript\bin\Release\TranScript.pdb
+D:\Documents\Visual Studio 2017\Projects\TranScript\TranScript\bin\Release\Newtonsoft.Json.dll
+D:\Documents\Visual Studio 2017\Projects\TranScript\TranScript\bin\Release\Newtonsoft.Json.pdb
+D:\Documents\Visual Studio 2017\Projects\TranScript\TranScript\bin\Release\Newtonsoft.Json.xml
+D:\Documents\Visual Studio 2017\Projects\TranScript\TranScript\obj\Release\TranScript.Form1.resources
+D:\Documents\Visual Studio 2017\Projects\TranScript\TranScript\obj\Release\TranScript.Properties.Resources.resources
+D:\Documents\Visual Studio 2017\Projects\TranScript\TranScript\obj\Release\TranScript.csproj.GenerateResource.cache
+D:\Documents\Visual Studio 2017\Projects\TranScript\TranScript\obj\Release\TranScript.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2017\Projects\TranScript\TranScript\obj\Release\TranScript.csproj.CopyComplete
+D:\Documents\Visual Studio 2017\Projects\TranScript\TranScript\obj\Release\TranScript.exe
+D:\Documents\Visual Studio 2017\Projects\TranScript\TranScript\obj\Release\TranScript.pdb
+D:\Documents\Visual Studio 2017\Projects\TranScript\TranScript\obj\Release\TranScript.csprojAssemblyReference.cache

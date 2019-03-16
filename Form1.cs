@@ -31,6 +31,13 @@ namespace TranScript
 
         private void lectureCSVToolStripMenuItem_Click(object sender, EventArgs e)
         {
+            this.Height = 515;
+            progressBar1.Visible = true;
+            progressBar1.Value = 1;
+            progressBar1.Step = 1;
+            progressBar1.Maximum = dataGridView1.Rows.Count - 1;
+            progressBar1.Minimum = 0;
+
             foreach (DataGridViewRow row in dataGridView1.Rows)
             {
                 int nbLigne = dataGridView1.Rows.Count;
@@ -133,11 +140,13 @@ namespace TranScript
                         {
                             //ajout une remarque si crypto à zéro
                             cell.Value = remarque;
+                            progressBar1.PerformStep();
                         }
                     }
                 }
             }
-            
+            this.Height = 490;
+            progressBar1.Visible = false;
         }
 
 
